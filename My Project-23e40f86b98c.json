@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "praxis-gantry-262718",
+  "private_key_id": "23e40f86b98c82dfae79955823625fa6872c1567",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCypA4KuEuJgz05\nZflXA6G6JZo8Z3J5A4y/45CuCiAfzKn5eHABS5UZmHjLZ4WvbDAzL/dnonCeIAn/\n91WfIMHONQieEhszz+FbnDB7J/4UTqwxj74Vqgc399PjONZNYET9WJPmDuzmvRRo\n2mh/cHwGnrEw9eQ9Vyj4yIVDsJx6oactbkB9430rkQVya69tHeDdGiopaXNgwPnS\nDFviKGuAOJx+07/EmEnvZ6cd9RQbuvy8i9X55KFwz2rxhIUNR0mjwyn3RqxxWPIA\nbqfAiYsq3BTiftnfGdhsfYTFxkl8rzVn26YD4taEBl+KvSNleziNHM3n1AceOePM\nHugzY379AgMBAAECggEABkN8hVsaTu6HZLrsgX5yziRhlZE2l50MjNfguH5Jy3bX\nvBPa4+vvnoLUzXD9feQ7UzgkPE6Be16tN+JHIfntW03k71uI96NoB/HG8DKIe20z\nJwoet8/xfXPJ/dmxOri2HCbEb/8a+fYsQCCHitxgHoCAi8wIKvxvRwkLRY9sofVE\n9Eghmbqb6JbYWI4AfK4vxg0wGZ58D3rk+xGxY0k1E8fJyjKc2CYyGUJywlEfMT/V\nh6t+/L5XrozLj33UeXihnKUNOaPErfZH9tX30dyekS6x4lYULV/gW9uzxJHqusRC\nqz0xmoCW1sesFtB+vZLKwYL2z1KYQ2l++5UxLqxu0wKBgQDyOsLfX6XnkDoDVmP8\nvXLLr7YdiPZHll44e+LREYACaWLjS2/zm3UwU6U1yh3rpvpicSSzXMsWQKOCUeTO\nN4++HRAHtLou4siskNJWYPnl1SH3jcec4yAqbybp3oD/gwImFMwumJFz49CWriy9\n6ZkAlGglrMKvrx/WEtD2HEUrcwKBgQC8y95LPg6chnqK+MxTNpKlNcAkmb605uZL\n9pQsfWpwfOiwJR5R60euMhjHwp0Xl6cmE0YKjoNuriE5Qr7mie1BeiuttThD7FPJ\nNIdEXm56Hskoeq0LBht3I/pvmluMRl57MBgeNKbZ9M+EbSMwqJ7nYUTqG0tRnioK\ne/ptrUfvzwKBgGdPFnPMSGbFhWiM/OH7Lq2eiC56jocjo5W1iJwgOZdNuSY1s06T\nm9x7oDebtz0dHybDGKMCzX71HIdlRA+LdNvha0fOFaYPhQTMU1kRzSLvzqfVKTBJ\nUhunAlK2WhAfoNf7AMZSvZ5OqFTLfjuVGHM92FlRIEtrhkl4BvUgQ4PvAoGAOBLx\nFjX7TwAeG3Kj9T8rNQiO5hAH9WDzG7LD9abWW0yuK8sKg1g3NQTKGWKzF9PCIGvv\nDKmhXdk4IvKxEnX60sy/dltxt7LUe9kvJ95IP9su8eflx3Vr6On1svoMoNAxtbLm\nJuqKeAffLrzfi885Sw230zSCHV61q+GA0tx5lj8CgYAuNwpcbImpEinmvTTYBAJP\n1kUDNzFXlJZ+bRfeI0xOAr18KflhQFOm6qyA7dR4hTxYmc2qNHorF1SYxTRi5BO+\n08OrUSxWqqOnjjJhVM+YA5vxOC303OSXTdRVjr36k2YFaqWt2RvcYVP90VFDpA8d\nbrjSIsWvAnXK458M8dDgZg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dudco-778@praxis-gantry-262718.iam.gserviceaccount.com",
+  "client_id": "113515706014624603549",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dudco-778%40praxis-gantry-262718.iam.gserviceaccount.com"
+}

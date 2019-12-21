@@ -8,19 +8,19 @@ export interface GifticonModel extends mongoose.Document {
     },
     title: String,
     desc: String,
-    date: Date
+    date: String
 }
 
 
 const GifticonSchema: mongoose.Schema<GifticonModel> = new mongoose.Schema({
-    img {
+    img: {
         thumbnail: {type: String},
         full: {type: String},
         barcode: {type: String}
     },
     title: {type: String},
     desc: {type: String},
-    date: {type: Date, default: Date.now}
+    date: {type: String, default: Date.now}
 })
 
 export default mongoose.model("Gifticon", GifticonSchema);
